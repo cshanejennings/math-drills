@@ -1,0 +1,11 @@
+{
+  "name": "math-drills",
+  "version": "1.0.0",
+  "description": "Grid-Based math drills",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shane Jennings",
+  "license": "ISC"
+}
